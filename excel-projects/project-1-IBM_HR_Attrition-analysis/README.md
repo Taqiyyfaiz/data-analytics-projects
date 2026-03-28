@@ -14,7 +14,8 @@ Which factors most influence employee attrition at IBM — and what should the c
 
 # Finding 1 — Attrition Rate
 
-![pie chart.png](pie_chart.png)
+![pie chart.png](<img width="1644" height="986" alt="pie_chart" src="https://github.com/user-attachments/assets/d1edc87e-5135-4716-a3d5-6f153fd9c3fd" />
+)
 
 > 16% of employees left — 1 in 6. High attrition increases hiring and training costs significantly. The company should investigate which departments are losing the most people first.
 > 
@@ -23,7 +24,9 @@ Which factors most influence employee attrition at IBM — and what should the c
 
 # Finding 2 — Compensation Gap
 
-![avgmonthly.png](avgmonthly.png)
+![avgmonthly.png]((<img width="1644" height="986" alt="avgmonthly" src="https://github.com/user-attachments/assets/e9d930e1-6799-4f70-8433-914f317e5c42" />
+)
+)
 
 > 
 > 
@@ -35,7 +38,8 @@ Which factors most influence employee attrition at IBM — and what should the c
 
 # Finding 3 — Job Satisfaction
 
-![job satisfaction.png](job_satisfaction.png)
+![job satisfaction.png](<img width="1643" height="985" alt="job_satisfaction" src="https://github.com/user-attachments/assets/0e104373-315a-4d9c-890a-db780b46bdf7" />
+)
 
 > Employees who left scored lower on job satisfaction — 2.47 vs 2.78 out of 4. Disengaged employees are flight risks before they ever resign. The company should run quarterly satisfaction surveys with real follow-up actions, not just data collection.
 > 
@@ -44,7 +48,8 @@ Which factors most influence employee attrition at IBM — and what should the c
 
 # **Finding 4 — Overtime**
 
-![overtime.png](overtime.png)
+![overtime.png](<img width="1642" height="985" alt="overtime" src="https://github.com/user-attachments/assets/d2d489a4-f03a-425e-8c0b-30e64fa0a258" />
+)
 
 > 54% of employees who left were working overtime. Overworked employees — often the most committed ones — burn out and quit. The company should audit overtime distribution and cap excessive hours immediately.
 > 
